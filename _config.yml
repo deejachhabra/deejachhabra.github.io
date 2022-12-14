@@ -13,6 +13,9 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: True        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
+linkedin_badge: |
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="{PROFILENAME}" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/{PROFILENAME}?trk=profile-badge">{YOUR NAME}</a></div>
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
@@ -21,8 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chhabradeeja@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/deejachhabra"}
+  - {title: Github, icon: github, url: "https://github.com/deejachhabra"}
+  - {title: LinkedIn, icon: linkedin_badge , url: "https://www.linkedin.com/in/deejachhabra"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
