@@ -1,6 +1,6 @@
 ---
 layout: page
-title : ""
+title : "MOTTO"
 ---
 
 D Digging Data
