@@ -4,8 +4,11 @@ title : ""
 ---
 
 D Digging Data
+
 A Adjusting Data
+
 T Trying  modelling with Data
+
 A Analyzing processed Data
 
 This is what I follow while building any Machine Learning Model. Scroll down and get to know me.
