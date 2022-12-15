@@ -3,9 +3,9 @@ layout: page
 title : "MOTTO"
 ---
 
-D Digging Data
+D Digging Data\n
 
-A Adjusting Data
+A Adjusting Data\n
 
 T Trying  modelling with Data
 
