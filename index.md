@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 ---
 layout: page
 title : "MOTTO"
