@@ -17,7 +17,6 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Deeja_Resume.pdf", icon: notebook,  title : "Resume"}
-  - {title : "Home" , icon : address-card }
   - {title : "Blog" , file : "blog.md" }
   - {title : "Education", file: "educ.md" }
 
