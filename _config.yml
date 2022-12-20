@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Deeja_Resume.pdf", icon: notebook,  title : "Resume"}
   - {title : "About me" , icon : address-card }
   - {title : "Blog" , file : "blog.md" }
+  - {title : "Education", file: "educ.md" }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chhabradeeja@gmail.com"}
