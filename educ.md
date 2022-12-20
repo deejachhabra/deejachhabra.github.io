@@ -1,1 +1,1 @@
-<h> Master of Science in computer Science </h>
+<h1> Master of Science in computer Science </h1>
