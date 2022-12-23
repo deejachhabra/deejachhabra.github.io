@@ -5,7 +5,7 @@
   }
 </style>
 
-<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/Data-Mining/tree/master/Natural%20Language%20Processing"><b>Text Classification-Pycaret|Naive Byaes|Random Forest|Support Vector Machines|Logistic Regression:</b></a><br>
+<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/Data-Mining/tree/master/Natural%20Language%20Processing"><b>Text Classification-Pycaret|Naive Bayes|Random Forest|Support Vector Machines|Logistic Regression:</b></a><br>
 ● Sentiment analysis using Pycaret after doing thorough research on Pycaret and it’s text classification.<br>
 ● Comparison with traditional models (Random Forest, NBC, Logistic Regression, SVM )<br>
 ● Dataset classified as Positive or Negative based upon the Review Rating.<br>
