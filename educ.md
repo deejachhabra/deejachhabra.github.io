@@ -1,6 +1,6 @@
 <h1> Master of Science in Computer Science </h1>
 University of Texas at Arlington 2022-2023<br>
-Specialization - Big Data Management, Artificial Intelligence<br>
+Specialization - Big Data Management, Artificial Intelligence.<br>
 Course Work-Design and Analysis of Algorithms, Data Analysis and Modelling Techniques, Secure Programming, DataMining, Machine
 Learning, Artificial Intelligence.
 
