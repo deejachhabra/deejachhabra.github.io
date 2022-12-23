@@ -1,7 +1,7 @@
 <style>
   .folder-links{
     color:black;
-    text-align:right;
+    float:right;
   }
 </style>
 
