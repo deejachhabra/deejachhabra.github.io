@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title : "Resume", file: "https://github.com/deejachhabra/deejachhabra.github.io/blob/master/Deeja_Resume.pdf"}
+  - {title : "Resume", url: "https://github.com/deejachhabra/deejachhabra.github.io/blob/master/Deeja_Resume.pdf"}
   - {title : "Blog" , file : "blog.md" }
   - {title : "Education", file: "educ.md" }
   - {title : "Projects", file: "projects.md" }
