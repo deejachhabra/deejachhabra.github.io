@@ -16,7 +16,7 @@
 
 <a target="_blank" class="folder-link" href="https://github.com/deejachhabra/Machine-Learning/tree/master/Non-Linear%20SVm%2C%20Multi%20Class%20SVM%20and%20Neural%20Network%20Library%20from%20scratch"><b>Non-LinearSVM, Multi-Class SVM, Neural Network Library-Python|Numpy|Pandas|Scikit Learn:</b></a><br>
 ● Developed SVM based on Input(Linear and Polynomial Kernel).<br>
-● Constructed the neural network library from scratch including layers, number of neurons to be passed, activationfunctions,
+● Constructed the neural network library from scratch including layers, number of neurons to be passed, activation functions,
 loss functions.<br>
 
 
