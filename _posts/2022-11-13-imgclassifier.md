@@ -66,125 +66,84 @@ Let us plot out loss and accuracies.
 
 Compared to our Model 1 , where there were drastic peaks in the data. This is a little smoother. Is that because of the kernel size we chose? 
 
-
-
-
-
-
-
-
 Model 3:
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/9.png)
 
-
-
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/10.png)
 
 We kind of changed our neural network architecture a bit in this one. Instead of keeping the same number of neurons, we have kept neurons in increasing order(32, 64, 128, 256). Rest everything is same as our previous models.
 
-
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/11.png)
 
 Does it look more smoother than the previous one?
 
 YES. It is more smoother because we increased the number of neurons.
 
-
-
-
-
-
-
-
 LETS TRY DECREASING THE NUMBER OF LAYERS AND SEE THE PERFORMANCE
 
 Model 4:
 
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/12.png)
 
 So this time our model only has 3 layers. 
 
-
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/13.png)
 
 Let's see what is our training and validation loss and accuracies.
 
-
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/14.png)
 
 Not much improvement.
 
 Lets decrease the number of layers to two this time and check.
 
-
-
-
-
-
-
-
 Model 5:
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/15.png)
 
 So, now we only have 2 layers with 8 neurons per layer.  I've also changed the learning rate from 0.001 to 0.01 in this.
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/16.png)
 
 Accuracy:
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/17.png)
 
 Lets see what is our validation and training loss and accuracies.
 
-
-
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/18.png)
 
 Even with 2 convolutional layers our model is performing very well. 
-
 Validation loss is very low. 
 
 What might be the reason for that?
-
-
-
-
-
-
 
 Model 6:
 
 Let us try one more model with just 1 layer. Let's see can we achieve the accuracy similar to the above model. Learning rate is again 0.001.
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/19.png)
 
 Our model has just one layer. 
 
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/20.png)
 
 Lets see our Loss.
 
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/21.png)
 
 Even with so many jumps while training our model performs well on validation set.
-
-
-
-
-
-
-
-
-
-
 
 Our model fits perfectly with our data. 
 
 Lets plot the model accuracies.
 
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/22.png)
 
 Let plot all model's accuracies together and check which performs better.
 
-
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/23.png)
 
 As is clearly visible, Model 5  And as stated previously this is because our model fits very well to our dataset. 
 
