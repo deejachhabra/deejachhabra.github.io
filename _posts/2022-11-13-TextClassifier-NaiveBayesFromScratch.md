@@ -121,21 +121,21 @@ Now Let us compare our model to the one from Library:
 We get an accuracy of 68% from Sklearn's Multinomial Naive Bayes Classifier. 
 Let us predict our Test set on both classifiers (One built from Scratch, One from Sklearn Library)
 
-![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t18.png)
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t19.png)
 
 Preprocessing Test Dataset:
 
-![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t19.png)
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t20.png)
 
 Since, we have only one column, this function is almost same as the one above for Training Dataset with little details changed.
 Let us print first 10 rows from our dataset. 
 
-![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t20.png)
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t21.png)
 
 Let us compare the predictions from both our models on the above 10 entries from Test set.
 
-![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t21.png)<-Model from scratch
-Model from sklearn -> ![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t22.png)
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t22.png)<-Model from scratch
+Model from sklearn -> ![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t23.png)
 
 We see that out of 10, 7 of the predictions are same in both the Models.
 
