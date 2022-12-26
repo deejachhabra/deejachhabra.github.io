@@ -50,6 +50,7 @@ Model 1 consists of 4 convolution layers, filters ( number of neurons = 16) a ke
 
 Our Accuracy and Loss for Model 1 seems a bit linear. May be because epoch size is 10.
 ![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/5.png)
+
 Let's see if we can improve it further.
 
 Model 2:
@@ -60,7 +61,7 @@ So we are tuning hyperparameters now. This model has 32 instead of 16 neurons pe
 
 ![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/7.png)
 
-Let us plot out loss and accuracies.
+Let us plot our loss and accuracies.
 
 ![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/8.png)
 
@@ -131,7 +132,7 @@ Our model has just one layer.
 
 Lets see our Loss.
 
-![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/21.png)
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/22.png)
 
 Even with so many jumps while training our model performs well on validation set.
 
@@ -139,11 +140,11 @@ Our model fits perfectly with our data.
 
 Lets plot the model accuracies.
 
-![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/22.png)
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/23.png)
 
 Let plot all model's accuracies together and check which performs better.
 
-![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/23.png)
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/24.png)
 
 As is clearly visible, Model 5  And as stated previously this is because our model fits very well to our dataset. 
 
@@ -162,30 +163,22 @@ Tried adding an Image Data Generator to generate transformations of images so th
 References:
 
 
-https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/    
-
+https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/   
 
 https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras
-
 
 https://www.youtube.com/watch?v=j-3vuBynnOE&t=192s   
 
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html  
 
-
 https://www.geeksforgeeks.org/keras-fit-and-keras-fit_generator/   
 
+https://keras.io/api/preprocessing/image/      
 
-https://keras.io/api/preprocessing/image/          
-
-
-https://neptune.ai/blog/google-colab-dealing-with-files   
-
+https://neptune.ai/blog/google-colab-dealing-with-files  
 
 https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html  
 
-
-https://www.geeksforgeeks.org/adding-value-labels-on-a-matplotlib-bar-chart/          
-
+https://www.geeksforgeeks.org/adding-value-labels-on-a-matplotlib-bar-chart/       
 
 https://www.youtube.com/watch?v=9pDlJ5aAFN4         
