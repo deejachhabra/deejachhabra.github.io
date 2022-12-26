@@ -32,7 +32,7 @@ These are just Airplane Images. One Image per dataset is in the Colab notebook. 
 
 Image Data Generator: 
 
-https://static.wixstatic.com/media/7d4240_df0d16bab7eb40418b275dda414e77e0~mv2.png/v1/fill/w_740,h_278,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7d4240_df0d16bab7eb40418b275dda414e77e0~mv2.png https://static.wixstatic.com/media/7d4240_df0d16bab7eb40418b275dda414e77e0~mv2.png/v1/fill/w_740,h_278,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7d4240_df0d16bab7eb40418b275dda414e77e0~mv2.png
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/2.png)
 
 As discussed earlier there are many parameters to pass. I've picked these amongst them. This will help us to create additional data images based on parameters passed.
 
