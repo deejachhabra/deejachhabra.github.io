@@ -10,21 +10,17 @@ Out Dataset consists of sentences of 6 types ( Responsibility, Requirement, Soft
 
                  https://i.stack.imgur.com/uaPM4.png
 
-Naive Bayes learning is known as Supervised Learning since we are feeding data to our model to learn from them.
+Naive Bayes learning is known as Supervised Learning since we are feeding data to our model to learn from them. 
 
- 
-
-Challenge: We will apply Naive Bayes Classifier, not from library, we will build the classifier from scratch. 
+<b>Challenge</b>: We will apply Naive Bayes Classifier, not from library, we will build the classifier from scratch. 
 
 Let us dive in. 
 
+<b>Solution:</b> Naive Bayes Classifier assumes that all the data is conditionally independent. This may not be true in some cases of test classification but it gives amazing accuracy while doing text classification.
 
-Solution: Naive Bayes Classifier assumes that all the data is conditionally independent. This may not be true in some cases of test classification but it gives amazing accuracy while doing text classification.
-
-Naive Bayes Formula : P(A|B) = P(B|A) P(A) / P(B)
+<b>Naive Bayes Formula : P(A|B) = P(B|A) P(A) / P(B)</b>
 
 A=Sentences, B=Class
-
 We want to find out the probability of a sentence given it is from a specific class.
 
 Let us look at our code.
