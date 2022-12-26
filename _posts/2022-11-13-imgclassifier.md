@@ -10,9 +10,7 @@ Problem Statement:
 
 We have three image dataset consisting of 3 classes, Motorbike Images( 798 images), Airplane Images ( 800 images ), Schooner Images ( 63 images ). 
 ![top](https://user-images.githubusercontent.com/108027722/207745815-895f3d82-4f35-4bec-afea-f4e2b016183c.png)
-
-
-	Photo by The Click Reader
+						Photo by The Click Reader
 
 Approach:
 
@@ -27,7 +25,7 @@ I'll explain the three models below but before that let us discuss label encoder
 
 An example of training data Image:
 
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/1.png)
 
 These are just Airplane Images. One Image per dataset is in the Colab notebook. But as we can see that the images do not have labels, we have just the images.
 
