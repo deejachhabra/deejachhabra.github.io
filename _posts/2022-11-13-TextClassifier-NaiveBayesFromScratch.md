@@ -7,6 +7,7 @@ Problem statement:
 Out Dataset consists of sentences of 6 types ( Responsibility, Requirement, Softskill, Skill, Experience and Education ). We have to classify sentences given to us into these 6 categories. Out Training Dataset consists of sentences and its type which we will feed into the model to learn and then we make our predictions on Test Dataset. 
 
 ![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t1.png)
+                 https://i.stack.imgur.com/uaPM4.png
 
 Naive Bayes learning is known as Supervised Learning since we are feeding data to our model to learn from them.
 
@@ -25,39 +26,34 @@ A=Sentences, B=Class
 
 We want to find out the probability of a sentence given it is from a specific class.
 
-
 Let us look at our code.
 
 We begin by doing necessary Imports.
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t2.png)
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t3.png)
 
+Let's save our data into DataFrame:
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t4.png)
 
-Let's save out data into DataFrame:
-
-
-
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t5.png)
 
 We see that our Test Dataset does not have a Type Column so we use it after building our dataset to see which Sentence is predicted as which Type.
 
-
 We drop null values form our DataFrame:
+We see that out dataset size has decreased below
 
-We see that out dataset size has decreased 
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t6.png)
 
 Plotting Sentence Type and number of sentences of each type:
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t7.png)
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/t8.png)Maximum Sentences of Type Responsibility ( 15257)
 
-
-Maximum Sentences of Type Responsibility ( 15257)
-
-Minimum Sentences of Type Education 
-
-( 4540 )
+                                                                                        Minimum Sentences of Type Education ( 4540 )
 
 
 
