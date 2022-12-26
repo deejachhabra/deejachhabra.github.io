@@ -42,39 +42,29 @@ Every Model is trained on 10 epochs
 
 Model 1:
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/3.png)
 
-Model 1 consists of 4 convolution layers, filters ( number of neurons = 16) a kernel size of 5*5, padding (same), activation function 'relu', and input_shape=(150,150,3) [ input_shape is passed only to the first layer to define the dimensions of input.  it is passed 150,150,3 because of colour image(RGB channel) else we would have passed (150,150). In the end we pass one 'Flatten' layer to flatten out output received from the immediate MaxPooling Layer. We add a Dense Layer ( this is not a convolutional layer ) which has 512 neurons in it. After this an Activation 'Relu' is passed. The last layer in our model is the Dense layer with 3 neurons, because we want our output 3 classes and an activation of softmax which defines probablities between 0 and 1. So what is happening in the last layer is that outputs of 3  neurons is getting converted into 3 probabilities which lie between 0 and 1. For example: lets say it is [0.3,0.4,0.3] . So our class 1 is most predictable than others.
+Model 1 consists of 4 convolution layers, filters ( number of neurons = 16) a kernel size of 5*5, padding (same), activation function 'relu', and input_shape=(150,150,3).input_shape is passed only to the first layer to define the dimensions of input.  it is passed 150,150,3 because of colour image(RGB channel) else we would have passed (150,150). In the end we pass one 'Flatten' layer to flatten out output received from the immediate MaxPooling Layer. We add a Dense Layer ( this is not a convolutional layer ) which has 512 neurons in it. After this an Activation 'Relu' is passed. The last layer in our model is the Dense layer with 3 neurons, because we want our output 3 classes and an activation of softmax which defines probablities between 0 and 1. So what is happening in the last layer is that outputs of 3  neurons is getting converted into 3 probabilities which lie between 0 and 1. For example: lets say it is [0.3,0.4,0.3] . So our class 1 is most predictable than others.
 
-
-
-
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/4.png)
 
 Our Accuracy and Loss for Model 1 seems a bit linear. May be because epoch size is 10.
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/5.png)
 Let's see if we can improve it further.
-
-
-
-
-
-
-
 
 Model 2:
 
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/6.png)
 
 So we are tuning hyperparameters now. This model has 32 instead of 16 neurons per layer. Additionally, we change the kernel size from 5*5 to 3*3. Rest everything is self explanatory as it is almost same from the model 1.
 
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/7.png)
 
 Let us plot out loss and accuracies.
 
-
-
+![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/8.png)
 
 Compared to our Model 1 , where there were drastic peaks in the data. This is a little smoother. Is that because of the kernel size we chose? 
-
 
 
 
