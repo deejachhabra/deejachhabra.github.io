@@ -1,9 +1,6 @@
 ---
 title:  "Multi Class Image Classifier"
 layout: post
-categories: 
-          -github
-          -website
 ---
 Problem Statement:
 
