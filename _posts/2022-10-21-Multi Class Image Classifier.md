@@ -1,6 +1,5 @@
 ---
 title:  "Multi Class Image Classifier"
-mathjax: true
 layout: post
 categories: 
           -github
