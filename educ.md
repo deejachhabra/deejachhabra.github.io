@@ -1,5 +1,5 @@
 <h1> Master of Science in Computer Science </h1>
-University of Texas at Arlington 2022-2023<br><style float = "right"><b>7.31</b></style>
+University of Texas at Arlington 2022-2023<p><style="float:right"><b>7.31</b></style></p>
 <b>Specialization - </b>Big Data Management, Artificial Intelligence.<br>
 <b>Course Work - </b>Design and Analysis of Algorithms, Data Analysis and Modelling Techniques, Secure Programming, DataMining, Machine
 Learning, Artificial Intelligence.
