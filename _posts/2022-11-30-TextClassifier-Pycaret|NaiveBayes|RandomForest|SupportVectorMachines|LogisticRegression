@@ -1,9 +1,9 @@
 ---
-title:  "Text Classifier-Pycaret|Naive Bayes|Random Forest|Support Vector Machines|Logistic Regression"
+title:  "Text Classifier - Pycaret|Naive Bayes|Random Forest|Support Vector Machines|Logistic Regression"
 layout: post
 ---
 
-![wget](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/p1.png)
+![top](https://github.com/deejachhabra/deejachhabra.github.io/raw/master/_posts/p1.png)
 Image referenced from https://www.formationcomcoach.top/ProductDetail.aspx?iid=149863845&pr=39.88
 
 We have a large product review dataset containing review text, rating and other miscellaneous details. 
