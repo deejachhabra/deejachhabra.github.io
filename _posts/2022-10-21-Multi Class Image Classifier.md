@@ -1,5 +1,5 @@
 ---
-title:  "Multi Class Image Classifier"
+title:  "Multi Class Image Classifier"<style color : black>
 layout: post
 ---
 Problem Statement:
