@@ -4,7 +4,7 @@
     text-decoration:underline;
   }
 </style>
-<strong style="font-family: monospace; color: #f45;">SELECT * FROM projects WHERE person = 'DEEJA CHHABRA';</strong>
+<strong style="font-family: monospace; color: #f45;">SELECT * FROM projects WHERE person == 'DEEJA CHHABRA';</strong>
 
 <a target="_blank" class="folder-link" href="https://github.com/deejachhabra/DFW_TempChangeYearly/tree/main"><b>Forecast Monthly Average Temperature in DFW | TensorFlow, Python, NumPy, Pandas</b></a><br>
 ● Employed ARIMA and FBProphet machine learning model for accurate temperature forecasting.<br>
