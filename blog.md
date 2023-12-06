@@ -16,7 +16,8 @@ layout: default
       font-family: monospace;
       color: #f45;
       font-weight: bold;
-      margin-left: 50px;
+      margin-top: 50px;
+      margin-left: 100px;
       margin-bottom: 20px; /* Adjust the margin as needed */
     }
   </style>
