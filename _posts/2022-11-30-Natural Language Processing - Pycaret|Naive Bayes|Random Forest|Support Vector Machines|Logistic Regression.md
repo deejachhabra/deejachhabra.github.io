@@ -1,5 +1,5 @@
 ---
-title:  "<p style=\"color: black;\">Natural Language Processing - Pycaret|Naive Bayes|Random Forest|Support Vector Machines|Logistic Regression</p>"
+title:  "<u><p style=\"color: black;\">Natural Language Processing - Pycaret|Naive Bayes|Random Forest|Support Vector Machines|Logistic Regression</p></u>"
 layout: post
 ---
 
