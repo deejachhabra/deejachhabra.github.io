@@ -1,3 +1,5 @@
+<strong style="font-family: monospace; color: #f45;">SELECT * FROM education WHERE person == 'DEEJA CHHABRA';</strong>
+
 <h1> Master of Science in Computer Science </h1>
 University of Texas at Arlington 2022-2023<br>
 <b>GPA - </b>4.0/4.0<br> 
