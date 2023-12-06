@@ -25,7 +25,7 @@ layout: default
 <body>
 
 <div class="sql-query">
-  <b>SELECT * FROM passion WHERE person == "DEEJA CHHABRA";</b>
+  <b>SELECT * FROM blogs WHERE person == "DEEJA CHHABRA";</b>
 </div>
 
 {% if site.show_excerpts %}
