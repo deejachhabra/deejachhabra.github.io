@@ -5,25 +5,25 @@
   }
 </style>
 
-<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/Data-Mining/tree/master/Natural%20Language%20Processing"><b>Text Classification-Pycaret|Naive Bayes|Random Forest|Support Vector Machines|Logistic Regression:</b></a><br>
-● Sentiment analysis using Pycaret after doing thorough research on Pycaret and it’s text classification.<br>
-● Comparison with traditional models (Random Forest, NBC, Logistic Regression, SVM )<br>
-● Dataset classified as Positive or Negative based upon the Review Rating.<br>
-
-<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/Machine-Learning/tree/master/Linear%2C%20Logistic%2C%20Linear%20Discriminant%20Analysis%20from%20scratch"><b>Linear Regression, Logistic Regression, Linear Discriminant analysis from scratch-Python|NumPy|Pandas:</b></a><br>
-● Built Models from scratch and trained them on Iris Dataset.<br>
-● Updated Weights and biases based on the training and plotting decision regions using MLXTEND.<br>
-
-<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/Machine-Learning/tree/master/Non-Linear%20SVm%2C%20Multi%20Class%20SVM%20and%20Neural%20Network%20Library%20from%20scratch"><b>Non-Linear SVM, Multi-Class SVM, Neural Network Library-Python|Numpy|Pandas|Scikit Learn:</b></a><br>
-● Developed SVM based on Input(Linear and Polynomial Kernel).<br>
-● Constructed the neural network library from scratch including layers, number of neurons to be passed, activation functions,
-loss functions.<br>
-
-
 <a target="_blank" class="folder-link" href="https://github.com/deejachhabra/DFW_TempChangeYearly/tree/main"><b>Forecast Monthly Average Temperature in DFW | TensorFlow, Python, NumPy, Pandas</b></a><br>
 ● Employed ARIMA and FBProphet machine learning model for accurate temperature forecasting.<br>
 ● Developed informative data visualizations using Power BI to illustrate historical trends and predict temperature.<br>
 ● Achieved significant accuracy with max monthly average temperatures projected at 85.74 (ARIMA), 90.61(FbProphet)<br>
+
+<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/PriceOptimization"><b>Price Estimation with RFC and XGBoost | TensorFlow, NumPy, Matplotlib</b></a><br>
+● Implemented Random Forest and XGBoost Regressor for fare estimation, achieving an impressive 0.85 R2 score. <br>
+● Transformed categorical features into numerical ones using label encoding, leading to 25% reduction in training time.<br>
+● Leveraged exploratory data analysis (EDA) to uncover insights, leading to a 30% reduction in feature dimensionality.<br>
+
+<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/Kaggle"><b>Early Detection of 3D printing issues | scikit-learn, pytorch, computer vision, SciPy</b></a><br>
+● Employed data augmentation on images an visually inspected the results by plotting them to validate their efficacy.<br>
+● Utilized multiple CNN models, tuning them, and including leveraging transfer learning with models such as VGG16 to exploit the dataset's scale and achieve notable performance with a success rate of 99% in anomaly detection.<br>
+● Extensive research on ML, Deep Learning to apply image segmentation to improve model accuracy by at least 10%.<br>
+
+<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/Data-Mining/tree/master/Natural%20Language%20Processing"><b>Text Classification-Pycaret|Naive Bayes|Random Forest|Support Vector Machines|Logistic Regression:</b></a><br>
+● Sentiment analysis using Pycaret after doing thorough research on Pycaret and it’s text classification.<br>
+● Comparison with traditional models (Random Forest, NBC, Logistic Regression, SVM )<br>
+● Dataset classified as Positive or Negative based upon the Review Rating.<br>
 
 
 
