@@ -1,10 +1,10 @@
 <style>
   .folder-link{
-    color:"#f45";
+    color:black;
     text-decoration:underline;
   }
 </style>
-<h1>SELECT * FROM PROJECTS WHERE PERSON == "DEEJA CHHABRA"</h1>
+<h1 style=\color: #f45;\>SELECT * FROM PROJECTS WHERE PERSON == "DEEJA CHHABRA"</h1>
 
 <a target="_blank" class="folder-link" href="https://github.com/deejachhabra/DFW_TempChangeYearly/tree/main"><b>Forecast Monthly Average Temperature in DFW | TensorFlow, Python, NumPy, Pandas</b></a><br>
 ● Employed ARIMA and FBProphet machine learning model for accurate temperature forecasting.<br>
