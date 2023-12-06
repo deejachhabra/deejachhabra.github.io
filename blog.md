@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -10,7 +9,7 @@ layout: default
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 20px;
+      margin: 40px;
     }
 
     .sql-query {
