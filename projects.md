@@ -21,9 +21,9 @@ loss functions.<br>
 
 
 <a target="_blank" class="folder-link" href="https://github.com/deejachhabra/DFW_TempChangeYearly/tree/main"><b>Forecast Monthly Average Temperature in DFW | TensorFlow, Python, NumPy, Pandas</b></a><br>
-● Employed ARIMA and FBProphet machine learning model for accurate temperature forecasting, involving feature engineering.<br>
-● Developed informative data visualizations using Power BI to illustrate historical trends and predict future temperature values.<br>
-● Achieved significant accuracy with max monthly average temperatures projected at 85.74 (ARIMA), 90.61(FbProphet) for 2024.<br>
+● Employed ARIMA and FBProphet machine learning model for accurate temperature forecasting.<br>
+● Developed informative data visualizations using Power BI to illustrate historical trends and predict temperature.<br>
+● Achieved significant accuracy with max monthly average temperatures projected at 85.74 (ARIMA), 90.61(FbProphet)<br>
 
 
 
