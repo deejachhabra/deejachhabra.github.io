@@ -1,5 +1,5 @@
 ---
-title: "Text Classification-Naive Bayes from Scratch"
+title: "<b style=\"color: black;\">Text Classification-Naive Bayes from Scratch</b>"
 layout: post
 ---
 Problem statement: 
