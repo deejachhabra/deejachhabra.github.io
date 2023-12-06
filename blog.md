@@ -17,7 +17,7 @@ layout: default
       color: #f45;
       font-weight: bold;
       margin-top: 50px;
-      margin-left: 100px;
+      margin-left: 140px;
       margin-bottom: 20px; /* Adjust the margin as needed */
     }
   </style>
