@@ -9,13 +9,14 @@ layout: default
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 40px;
+      margin: 20px;
     }
 
     .sql-query {
       font-family: monospace;
       color: #f45;
       font-weight: bold;
+      margin-left: 50px;
       margin-bottom: 20px; /* Adjust the margin as needed */
     }
   </style>
