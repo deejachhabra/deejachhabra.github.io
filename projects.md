@@ -1,6 +1,6 @@
 <style>
   .folder-link{
-    color:black;
+    color:"#f45";
     text-decoration:underline;
   }
 </style>
