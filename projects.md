@@ -20,9 +20,10 @@
 loss functions.<br>
 
 
-<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/Data-Mining/tree/master/MultiClassImageClassifier"><b>Multi Class Image Classification-Python|CNN:</b></a><br>
-● Used Convolutional Neural Network to classify images of three different classes.<br>
-● Extensive use of Image Data Generators with application of convolutions to increase our training data.<br>
-● Achieved an accuracy of 99% on validation dataset after training six different model variations.<br>
+<a target="_blank" class="folder-link" href="https://github.com/deejachhabra/DFW_TempChangeYearly/tree/main"><b>Forecast Monthly Average Temperature in DFW | TensorFlow, Python, NumPy, Pandas</b></a><br>
+● Employed ARIMA and FBProphet machine learning model for accurate temperature forecasting, involving feature engineering.<br>
+● Developed informative data visualizations using Power BI to illustrate historical trends and predict future temperature values.<br>
+● Achieved significant accuracy with max monthly average temperatures projected at 85.74 (ARIMA), 90.61(FbProphet) for 2024.<br>
+
 
 
