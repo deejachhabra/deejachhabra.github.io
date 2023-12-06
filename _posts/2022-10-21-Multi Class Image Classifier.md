@@ -1,5 +1,5 @@
 ---
-title:  "<p style="color: black;">Multi Class Image Classifier</p>"
+title:  "Multi Class Image Classifier"
 layout: post
 ---
 Problem Statement:
